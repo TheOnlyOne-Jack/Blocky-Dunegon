@@ -3,4 +3,4 @@ We made Blocky Dungeons to practice our Unity and game design skills. Blocky Dun
 
 Unity
 
-https://theonlyone-jack.github.io/Blocky-Dunegon/.
+https://theonlyone-jack.github.io/Blocky-Dunegon/
